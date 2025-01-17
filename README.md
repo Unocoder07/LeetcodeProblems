@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [2792-neighboring-bitwise-xor](https://github.com/Unocoder07/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0133-clone-graph) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2792-neighboring-bitwise-xor](https://github.com/Unocoder07/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 <!---LeetCode Topics End-->
