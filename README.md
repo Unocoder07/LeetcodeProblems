@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0407-trapping-rain-water-ii](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/Unocoder07/LeetcodeProblems/tree/master/2792-neighboring-bitwise-xor) |
 ## Binary Search
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -53,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
+## Counting
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
