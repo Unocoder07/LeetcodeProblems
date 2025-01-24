@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0133-clone-graph) |
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0133-clone-graph) |
 | [0407-trapping-rain-water-ii](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0133-clone-graph) |
+| [0820-find-eventual-safe-states](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
