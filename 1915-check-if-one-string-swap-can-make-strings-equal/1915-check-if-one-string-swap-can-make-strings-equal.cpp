@@ -1,18 +1,17 @@
 class Solution {
 public:
     bool areAlmostEqual(string s1, string s2) {
-        if (s1 == s2)
-            return true;
-
-        vector<int> diff;
-        for (int i = 0; i < s1.size(); i++) {
-            if (s1[i] != s2[i]) {
-                diff.push_back(i);
+         int differenceCount = 0;
+        char charFromStr1 = 0, charFromStr2 = 0;
+        for (int index = 0; index < s1.size(); ++index) {
+            char charA = s1[index], charB = s2[index];
+            if (charA != charB) {
+                if (++differenceCount > 2 || (differenceCount == 2 && (charA != charFromStr2 || charB != charFromStr1))) {
+                    return false;
+                }
+                charFromStr1 = charA, charFromStr2 = charB;
             }
         }
-
-        if (diff.size() != 2)
-            return false;
-        return (s1[diff[0]] == s2[diff[1]] && s1[diff[1]] == s2[diff[0]]);
+        return differenceCount != 1;
     }
 };
