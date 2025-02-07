@@ -1,18 +1,21 @@
 class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-         unordered_map<int,int> ball, color;
-        vector<int> ans;
-        ans.reserve(queries.size());
-        int distinct = 0;
-        for(auto &q : queries) {
-            int pos = q[0], c = q[1];
-            if(ball.count(pos))
-                if(--color[ball[pos]] == 0) { color.erase(ball[pos]); distinct--; }
-            ball[pos] = c;
-            if(++color[c] == 1) distinct++;
-            ans.push_back(distinct);
+        unordered_map<int, int> mapping;
+        unordered_map<int, int> count;
+        vector<int> result;
+        for (auto& query : queries) {
+            int x = query[0];
+            int y = query[1];
+            count[y]++;
+            if (mapping.contains(x) && --count[mapping[x]] == 0) {
+                count.erase(mapping[x]);
+            }
+
+            mapping[x] = y;
+            result.push_back(count.size());
         }
-        return ans;
+      
+        return result;
     }
 };
