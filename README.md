@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/Unocoder07/LeetcodeProblems/tree/master/2448-count-number-of-bad-pairs) |
@@ -169,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Unocoder07/LeetcodeProblems/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
