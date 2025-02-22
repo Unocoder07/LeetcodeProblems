@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Unocoder07/LeetcodeProblems/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1558-course-schedule-iv) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Unocoder07/LeetcodeProblems/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -187,9 +189,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Unocoder07/LeetcodeProblems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
